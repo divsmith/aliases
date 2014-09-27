@@ -18,3 +18,6 @@ alias vh='vagrant halt'
 alias vsus='vagrant suspend'
 alias vssh='vagrant ssh'
 
+# --- Navigation Aliases ---
+alias h='cd ~'
+
