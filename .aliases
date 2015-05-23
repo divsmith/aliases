@@ -21,3 +21,8 @@ alias vssh='vagrant ssh'
 # --- Navigation Aliases ---
 alias h='cd ~'
 
+# --- Artisan Aliases ---
+alias pa='php artisan'
+
+# -- PHPSpec Aliases
+alias phpspec='vendor/bin/phpspec'
