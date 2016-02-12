@@ -8,6 +8,8 @@ alias gpo='git push origin'
 alias gpom='git push origin master'
 alias gb='git branch'
 alias gm='git merge'
+alias gpu='git pull'
+alias gpum='git pull origin master'
 
 # --- Vagrant Aliases ---
 alias vu='vagrant up'
@@ -26,3 +28,5 @@ alias pa='php artisan'
 
 # -- PHPSpec Aliases
 alias phpspec='vendor/bin/phpspec'
+alias ps='vendor/bin/phpspec'
+alias psr='vendor/bin/phpspec run'
